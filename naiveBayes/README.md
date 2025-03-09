@@ -22,11 +22,17 @@ Bu projede, Gaussian Naive Bayes algoritması kullanılmıştır. Modelin doğru
 Modelin performansı aşağıdaki gibidir:
 
 Accuracy    0.8967
+
 Precision   0.9109
+
 Recall  0.9020
+
 Specificity 0.8902
 
  ## Yorum / Tartışma
 Modelin doğruluğu iyi seviyededir ancak yanlış negatif sonuçların sayısını azaltmak için farklı metrikler (örneğin, recall) göz önünde bulundurulabilir. Ayrıca, modelin geliştirilmesi için farklı sınıflandırıcılar da denenebilir.
 
+ ## Kaynakça
+https://www.kaggle.com/code/tarekfathalla17/heart-failure-prediction 
+sklearn 1.3.0 - pandas 2.1.4 - numpy 1.24.3
 
