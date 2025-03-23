@@ -1,5 +1,5 @@
- #Logistic Regression
-##1. Proje Açıklaması
+  #Logistic Regression
+ ##1. Proje Açıklaması
 Bu proje, kredi geri ödememe (loan default) durumlarını tahmin etmek için Logistic Regression yöntemini kullanmaktadır.
 
 Veri seti: Kaggle - Loan Default Dataset
