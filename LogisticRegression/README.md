@@ -68,7 +68,7 @@ Bu tür problemlerde **önemli metrikler şunlardır:**
 
 Scikit-learn modeli **yüksek doğruluk sunarken recall değeri çok düşük**. Bu, kredi ödemeyecek kişileri tespit etmede başarısız olduğu anlamına gelir.  
 
-📌 **Gerçek hayatta bankalar için recall değeri çok kritik bir metriktir, çünkü ödeme yapmayacak müşterileri kaçırmak büyük maddi kayıplara yol açabilir.**  
+ **Gerçek hayatta bankalar için recall değeri çok kritik bir metriktir, çünkü ödeme yapmayacak müşterileri kaçırmak büyük maddi kayıplara yol açabilir.**  
 
 ---
 
